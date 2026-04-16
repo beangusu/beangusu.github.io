@@ -1,25 +1,31 @@
+/* page background + overall spacing */
 body {
     background-color: #1a151a;
     padding: 20px 40px;
     margin: 30px;
+    font-family: garamond;
 }
 
-h1 {
+/* header stylings */
+header h1 {
     color: #bb7a8a;
-    font-family: garamond;
 }
 
-h2 {
+header h2 {
     color: #9e5c6c;
-    font-family: garamond;
 }
 
-p {
+/* main content */
+main p {
     color: #bb918d;
-    font-family: garamond;
 }
 
-ul {
+/* interests list */
+main ul {
+    color: #bb918d;
+}
+
+/* footer styling */
+footer p {
     color: #9e5c6c;
-    font-family: garamond;
 }
