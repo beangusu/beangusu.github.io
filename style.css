@@ -1,31 +1,35 @@
 /* page background + overall spacing */
 body {
     background-color: #1a151a;
-    padding: 20px 40px;
-    margin: 30px;
-    font-family: garamond;
+    padding: 40px 60px;
+    margin: 20px auto;
+    font-family: candara;
 }
 
 /* header stylings */
 header h1 {
-    color: #bb7a8a;
+    color: #e4a5b6;
 }
 
 header h2 {
-    color: #9e5c6c;
+    color: #b86481;
 }
 
 /* main content */
 main p {
-    color: #bb918d;
+    color: #d8b8b2;
 }
 
 /* interests list */
 main ul {
-    color: #bb918d;
+    color: #c08c9a;
 }
 
 /* footer styling */
 footer p {
-    color: #9e5c6c;
+    color: #b86481;
+}
+
+footer a {
+    color: #e4a5b6;
 }
