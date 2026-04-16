@@ -1,0 +1,25 @@
+body {
+    background-color: #1a151a;
+    padding: 20px 40px;
+    margin: 30px;
+}
+
+h1 {
+    color: #bb7a8a;
+    font-family: garamond;
+}
+
+h2 {
+    color: #9e5c6c;
+    font-family: garamond;
+}
+
+p {
+    color: #bb918d;
+    font-family: garamond;
+}
+
+ul {
+    color: #9e5c6c;
+    font-family: garamond;
+}
