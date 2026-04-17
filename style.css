@@ -7,29 +7,28 @@ body {
 }
 
 /* header stylings */
-header h1 {
+.h1 {
     color: #e4a5b6;
 }
 
-header h2 {
-    color: #b86481;
+.h2 {
+    color: #bd638d;
 }
 
-/* main content */
-main p {
-    color: #d8b8b2;
+.h3 {
+    color: #b15473;
 }
 
-/* interests list */
-main ul {
-    color: #c08c9a;
+/* main content text*/
+.main-text {
+    color: #d8b2b2;
 }
 
 /* footer styling */
-footer p {
-    color: #b86481;
+.footer-text {
+    color: #bd638d;
 }
 
-footer a {
+.profile-link {
     color: #e4a5b6;
 }
